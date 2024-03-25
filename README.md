@@ -1,4 +1,4 @@
-# forreção Limite de Resolução e Bordas Pretas no Ubuntu/Debian.
+# Correção Limite de Resolução e Bordas Pretas no Ubuntu/Debian.
 # Fix Resolution Limit and Black Borders on Ubuntu/Debian.
 
 EN:
