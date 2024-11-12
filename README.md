@@ -34,6 +34,12 @@ xrandr --output DP-1 --mode 1920x1080R --scale 1x1 --panning 1920x1080 --left-of
 chmod +x set_display.sh
 ```
 
+## Resolução bugada - alterando 'zoom'
+
+```bash
+xrandr --output DP-1 --panning 1920x1080R
+```
+
 ## Startup App
 
 Para não perder as configurações, define o arquivo como aplicação de inicialização.
